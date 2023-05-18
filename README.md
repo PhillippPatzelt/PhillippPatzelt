@@ -14,6 +14,11 @@ Within these repositories, you'll discover a diverse collection of projects that
 
 Feel free to roam around, explore the code, and gain insights into my thought processes. Collaborate, critique, or simply find inspiration—this is an open space where minds can connect and dreams can take flight.
 
+## My Stats
+
+![Commits](https://img.shields.io/github/commit-activity/w/YourGitHubUsername/YourGitHubUsername?color=green&label=Commits&style=flat-square)
+![Pull Requests](https://img.shields.io/github/issues-pr/YourGitHubUsername/YourGitHubUsername?color=blue&label=Pull%20Requests&style=flat-square)
+
 ## My Coding Superpowers
 
 💻 **C# .NET Expertise:** I wield the power of C# and the .NET framework to build robust, scalable, and performant applications that drive businesses forward.
