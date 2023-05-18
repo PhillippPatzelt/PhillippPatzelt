@@ -16,11 +16,11 @@ Feel free to roam around, explore the code, and gain insights into my thought pr
 
 ## My Stats
 
-- Total Commits: ![Commit Count](https://img.shields.io/github/commit-activity/y/PhillippPatzelt/YourRepository?label=Total%20Commits)
+- Total Commits: ![Commit Count](https://img.shields.io/github/commit-activity/y/PhillippPatzelt/LearnAhead?label=Total%20Commits)
 
-- Total Pull Requests: ![Pull Request Count](https://img.shields.io/github/issues-pr-closed/PhillippPatzelt/YourRepository?label=Total%20Pull%20Requests)
+- Total Pull Requests: ![Pull Request Count](https://img.shields.io/github/issues-pr-closed/PhillippPatzelt/LearnAhead?label=Total%20Pull%20Requests)
 
-- Created Issues: ![Issue Count](https://img.shields.io/github/issues-raw/PhillippPatzelt/YourRepository?label=Created%20Issues)
+- Created Issues: ![Issue Count](https://img.shields.io/github/issues-raw/PhillippPatzelt/LearnAhead?label=Created%20Issues)
 
 ## My Coding Superpowers
 
