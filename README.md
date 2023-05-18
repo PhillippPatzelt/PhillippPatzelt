@@ -18,10 +18,6 @@ Feel free to roam around, explore the code, and gain insights into my thought pr
 
 - Total Commits: ![Commit Count](https://img.shields.io/github/commit-activity/y/PhillippPatzelt/LearnAhead?label=Total%20Commits)
 
-- Total Pull Requests: ![Pull Request Count](https://img.shields.io/github/issues-pr-closed/PhillippPatzelt/LearnAhead?label=Total%20Pull%20Requests)
-
-- Created Issues: ![Issue Count](https://img.shields.io/github/issues-raw/PhillippPatzelt/LearnAhead?label=Created%20Issues)
-
 ## My Coding Superpowers
 
 💻 **C# .NET Expertise:** I wield the power of C# and the .NET framework to build robust, scalable, and performant applications that drive businesses forward.
