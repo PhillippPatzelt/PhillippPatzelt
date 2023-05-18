@@ -16,8 +16,8 @@ Feel free to roam around, explore the code, and gain insights into my thought pr
 
 ## My Stats
 
-![Commits](https://img.shields.io/github/commit-activity/w/YourGitHubUsername/YourGitHubUsername?color=green&label=Commits&style=flat-square)
-![Pull Requests](https://img.shields.io/github/issues-pr/YourGitHubUsername/YourGitHubUsername?color=blue&label=Pull%20Requests&style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/w/PhillippPatzelt/PhillippPatzelt?color=green&label=Commits&style=flat-square)
+![Pull Requests](https://img.shields.io/github/issues-pr/PhillippPatzelt/PhillippPatzelt?color=blue&label=Pull%20Requests&style=flat-square)
 
 ## My Coding Superpowers
 
